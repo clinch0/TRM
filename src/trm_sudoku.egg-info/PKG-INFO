@@ -1,9 +1,0 @@
-Metadata-Version: 2.4
-Name: trm-sudoku
-Version: 0.1.0
-Summary: Minimal tiny recursive model with a real 9x9 Sudoku benchmark
-Requires-Python: >=3.10
-Requires-Dist: torch>=2.1
-Provides-Extra: dev
-Requires-Dist: pytest>=8; extra == "dev"
-Requires-Dist: ruff>=0.8; extra == "dev"
